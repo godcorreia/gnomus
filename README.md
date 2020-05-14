@@ -1,1 +1,1 @@
-a versão inicial do Gnomus PHP
+A versão inicial do Gnomus PHP
